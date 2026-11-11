@@ -88,8 +88,4 @@ Com vento de 11 m/s, a geração estimada é 27.5 kWh.
 
 ## 8. Como adaptar
 
-A equipe pode alterar os valores em `dados.py`, atualizar as listas históricas e ajustar os limites em `decisoes.py`. Para testar outros cenários, modifique os valores e execute novamente `python main.py`.
-
-## 9. Publicação no GitHub
-
-Crie um repositório público no GitHub, por exemplo `sistema-colonia-inteligente`, envie todos os arquivos desta pasta e copie o endereço do repositório para inserir no relatório. O endereço ainda precisa ser preenchido pela equipe após a publicação.
+Pode alterar os valores em `dados.py`, atualizar as listas históricas e ajustar os limites em `decisoes.py`. Para testar outros cenários, modifique os valores e execute novamente `python main.py`.
